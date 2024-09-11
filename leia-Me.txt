@@ -1,0 +1,5 @@
+para Executar o Script primeiro Temos que Habilitar 
+a execucao de Scripts Usando o Comando:
+Set-ExecutionPolicy RemoteSigned
+
+Pronto Agora e so abrir o arquivo com powershell!
